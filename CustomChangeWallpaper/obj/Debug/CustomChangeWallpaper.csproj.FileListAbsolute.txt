@@ -1,0 +1,10 @@
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\bin\Debug\CustomChangeWallpaper.exe.config
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\bin\Debug\CustomChangeWallpaper.exe
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\bin\Debug\CustomChangeWallpaper.pdb
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\obj\Debug\CustomChangeWallpaper.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\obj\Debug\CustomChangeWallpaper.Form1.resources
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\obj\Debug\CustomChangeWallpaper.Properties.Resources.resources
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\obj\Debug\CustomChangeWallpaper.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\obj\Debug\CustomChangeWallpaper.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\obj\Debug\CustomChangeWallpaper.exe
+C:\Users\Саша\source\repos\CustomChangeWallpaper\CustomChangeWallpaper\obj\Debug\CustomChangeWallpaper.pdb
